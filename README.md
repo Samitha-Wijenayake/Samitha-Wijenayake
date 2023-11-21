@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samitha Wijenayake</h1>
 <h3 align="center">Driven by Code: A Dedicated Developer's Journey</h3>
-(img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/qUkrBZ5gwqRomCUB8")
+<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/qUkrBZ5gwqRomCUB8">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samitha-wijenayake&label=Profile%20views&color=0e75b6&style=flat" alt="samitha-wijenayake" /> </p>
 
