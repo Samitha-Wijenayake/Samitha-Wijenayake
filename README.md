@@ -1,6 +1,6 @@
 
 ![logo](https://github.com/Samitha-Wijenayake/Samitha-Wijenayake/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
-<h1 align="center">Hi 👋, I'm Samitha Wijenayake</h1>
+<h1 align="center">Hi 👋 I'm Samitha Wijenayake</h1>
 <h3 align="center">Driven by Code: A Dedicated Developer's Journey</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
